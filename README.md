@@ -18,3 +18,6 @@
 - All changes to main must be submitted through a pull request.
 - At least one teammate must approve each pull request before merging.
 - Reviewers should resolve or respond to all review comments before merging.
+
+## Review Turnaround
+All pull request reviews should receive a response within 24 hours.
